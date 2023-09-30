@@ -51,7 +51,7 @@ header{
     width: 100%;
     height: 100vh;
     background:linear-gradient(rgba(0,0,0,0.7)(rgba(0,0,0,0.7)));
-    background: url('/images/school.jpg'); 
+    background: url('school.jpg'); 
     background-size: 100% 100%;
     background-position: 0px 0px;
         
